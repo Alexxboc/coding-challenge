@@ -1,0 +1,64 @@
+body {
+  background-size: cover;
+  background-image: url(background.jpg);
+}
+
+.contenitore {
+  background-color:rgba(0,0,0,0.5);
+  width: 1000px;
+  margin: auto;
+  padding: 200px;
+  border-radius: 2%;
+}
+
+header,.navigazione {
+  text-align: center;
+}
+
+.logo {
+  width: 250px;
+}
+
+.intestazione {
+  font-size: 40px;
+  color: #39ff14;
+  margin-top: 5px;
+}
+
+.navigazione {
+  background-color: #39ff14;
+  padding: 10px;
+}
+
+div>h2 {
+  display: inline-block;
+  color: white;
+}
+
+p {
+  margin-top: -10px;
+  color: white;
+
+}
+
+main hr {
+  border: 0;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: -15px;
+}
+
+.arancione {
+  margin-right: 60%;
+  background-color: orange;
+}
+
+.verde {
+  margin-right: 40%;
+  background-color: green;
+}
+
+.rosso {
+  margin-right: 85%;
+  background-color: red;
+}
